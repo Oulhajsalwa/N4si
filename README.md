@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Salwa OULHAJ
 
-🚀 **Data Engineering & AI Enthusiast** | 🎓 Engineering Student at ENSIAS | 💡 Passionate about Machine Learning, Cloud Computing & DevOps
+🚀 **Data Engineering & AI Enthusiast** | 🎓 Engineering Student at ENSIAS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salwa-oulhaj-501691294/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/oulhajsalwa)
@@ -11,10 +11,7 @@
 ---
 
 ## 💻 About Me
-- 🎓 **Currently:** 2nd-year Engineering Student at **ENSIAS, Rabat**, majoring in **Data Engineering**.
-- 🔍 **Seeking:** Internship opportunities in **Data Science, AI, and Cloud Computing** (June 2025 - August 2025).
-- 🌍 **Languages:** Arabic (Native), Tamazight (Native), French (B2), English (Intermediate).
-- 💡 **Interests:** AI, NLP, Big Data, Security, and Cloud Technologies.
+I’m a data engineering student at Ensias, I have a passion for data, artificial intelligence ,cloud computing and everything in between. I place great emphasis on delivering quality results no matter the circumstances. My expertise spans Python,SQL, machine learning, data analysis, visualization, cloud platforms like AWS. I'm also experienced with some web frameworks and libraries such as FastAPI, and Streamlit.
 
 ---
 
