@@ -1,2 +1,1 @@
-# N4si
-👋🏻 Hi, I'm Salwa
+# 👋🏻 Hi, I'm Salwa
